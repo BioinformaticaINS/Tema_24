@@ -3,7 +3,7 @@
 ---
 
 ### **Objetivo de la sesión:**
-Al finalizar la sesión, los estudiantes serán capaces de utilizar bases de datos de proteínas, comprender los métodos de determinación de estructuras proteicas, analizar los niveles de organización estructural de las proteínas y aplicar técnicas de modelamiento por homología para predecir estructuras proteicas.
+Al finalizar la sesión, los estudiantes serán capaces de utilizar bases de datos de proteínas, comprender los métodos de determinación de estructuras protéicas, analizar los niveles de organización estructural de las proteínas y aplicar técnicas de modelamiento por homología para predecir estructuras proteicas.
 
 ---
 
@@ -23,6 +23,23 @@ Al finalizar la sesión, los estudiantes serán capaces de utilizar bases de dat
 - **¿Qué es una proteína?**
   - Definición básica: Las proteínas son moléculas formadas por cadenas de aminoácidos.
   - Importancia en los organismos vivos: Desempeñan un papel fundamental en la formación y reparación de tejidos, desarrollo corporal e intelectual.
+  - Ejemplos de proteínas: Actina y Miosina (Músculo), Celulosa (Árbol), Bacterias y Virus (Pirazinamida y Spike).
+
+- **¿Porqué es importante conocer la estructura de la proteína?**
+  - Función de las proteínas: Multitud de funcionabilidades.
+  - Relación estructura-función: Existe una relación muy directa.
+      * Filamentosas: Colágeno o la actina
+      * Grapa: Espectrinas y filaminas
+      * Anulares: DNA polimerasa
+      * Conducto: Porina
+
+- **Tamaño de las proteínas**
+  - Célula --> (1x10-6 m) µ micras
+  - Ribosoma --> (1x10-9 m) nanómetros
+  - Proteína --> (1x10-10 m) angstroms
+
+![](https://www.aula2005.com/html/cn3eso/04moleculescelules/mides300es.jpg)
+
 
 - **Bases de datos de proteínas:**
   - **UniProt:** Base de datos de secuencias de proteínas y información funcional.
