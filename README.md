@@ -40,16 +40,6 @@ Al finalizar la sesión, los estudiantes serán capaces de utilizar bases de dat
 
 ![](https://www.aula2005.com/html/cn3eso/04moleculescelules/mides300es.jpg)
 
-
-- **Bases de datos de proteínas:**
-  - **UniProt:** Base de datos de secuencias de proteínas y información funcional.
-  - **Protein Data Bank (PDB):** Repositorio mundial de estructuras 3D de proteínas y otras macromoléculas.
-  - **ExPASy:** Portal bioinformático que ofrece acceso a bases de datos y herramientas para la investigación en ciencias de la vida.
-
-**Actividad:**
-- Exploración de UniProt y PDB para buscar una proteína específica (e.g., "alkaline serine protease").
-- Discusión sobre la información obtenida (secuencia, estructura, función, etc.).
-
 ---
 
 ### **2. Métodos de determinación de estructuras de proteínas** (30 minutos)
@@ -66,10 +56,6 @@ Al finalizar la sesión, los estudiantes serán capaces de utilizar bases de dat
 - **Criomicroscopía electrónica (Cryo-EM):**
   - Permite visualizar proteínas en su estado nativo.
   - Ideal para grandes complejos proteicos.
-
-**Actividad:**
-- Discusión sobre las ventajas y limitaciones de cada método.
-- Visualización de estructuras determinadas por diferentes métodos en PDB.
 
 ---
 
